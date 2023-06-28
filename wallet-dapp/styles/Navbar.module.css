@@ -1,5 +1,3 @@
-
-
 .navbar {
 	display: flex;
 	justify-content: space-between;
@@ -7,8 +5,8 @@
 	padding: 2rem 4rem 0.8rem 4rem;
 	gap: 2rem;
 	margin-bottom: 4rem;
+	background-color: #282828;
 }
-
 
 .alchemy_logo{
 	width: 8rem;
